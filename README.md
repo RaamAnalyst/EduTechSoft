@@ -6,7 +6,7 @@
 
 _Current Version: 0.0.5_
 
-<img src="/EduTechSoft.png" alt="EduTechSoft"/>
+<img src="/EduTechSoft.jpg" alt="EduTechSoft"/>
 
 ## EduTechSoft
 
