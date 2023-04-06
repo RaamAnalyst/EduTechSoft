@@ -1,5 +1,5 @@
 ### Table of Contents
-- [DiceCRM](#EduTechSoft)
+- [EduTechSoft](#EduTechSoft)
 - [Features of EduTechSoft](#features-of-EduTechSoft)
 - [Requirements](#requirements)
 - [Installation](#installation)
